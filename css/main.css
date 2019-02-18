@@ -1895,7 +1895,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #70ebd7;
+  background: #d0c924;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3174,14 +3174,6 @@ ul.breadcrumb li+li:last-child {
     margin: 8px 0 0;
   }
 }
-@media screen and (min-width: 1200px) {
-  body {
-    background-image: url("/images/https://s2.ax1x.com/2019/02/18/kcB2VJ.jpg");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: 50% 50%;
-  }
-  #footer a {
-    color: #eee;
-  }
+body {
+  background: url("/images/background5.jpg");
 }
